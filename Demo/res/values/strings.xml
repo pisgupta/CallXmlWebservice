@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="date_button">Change Date</string>
+    <string name="time_text">Here comes the Time</string>
+    <string name="time_button">Set Time</string>
+    <string name="date_text">Here comes the Selected Date</string>
+
+    <string-array name="satte">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+
+</resources>
